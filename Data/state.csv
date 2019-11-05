@@ -1,0 +1,51 @@
+state_id,State_abbv,State_full,Population
+1,AL,Alabama,4833722
+2,AK,Alaska,735132
+3,AZ,Arizona,6626624
+4,AR,Arkansas,2959373
+5,CA,California,38332521
+6,CO,Colorado,5268367
+7,CT,Connecticut,3596080
+8,DE,Delaware,925749
+9,FL,Florida,19552860
+10,GA,Georgia,9992167
+11,HI,Hawaii,1404054
+12,ID,Idaho,1612136
+13,IL,Illinois,12882135
+14,IN,Indiana,6570902
+15,IA,Iowa,3090416
+16,KS,Kansas,2893957
+17,KY,Kentucky,4395295
+18,LA,Louisiana,4625470
+19,ME,Maine,1328302
+20,MD,Maryland,5928814
+21,MA,Massachusetts,6692824
+22,MI,Michigan,9895622
+23,MN,Minnesota,5420380
+24,MS,Mississippi,2991207
+25,MO,Missouri,6044171
+26,MT,Montana,1015165
+27,NE,Nebraska,1868516
+28,NV,Nevada,2790136
+29,NH,New Hampshire,1323459
+30,NJ,New Jersey,8899339
+31,NM,New Mexico,2085287
+32,NY,New York,19651127
+33,NC,North Carolina,9848060
+34,ND,North Dakota,723393
+35,OH,Ohio,11570808
+36,OK,Oklahoma,3850568
+37,OR,Oregon,3930065
+38,PA,Pennsylvania,12773801
+39,RI,Rhode Island,1051511
+40,SC,South Carolina,4774839
+41,SD,South Dakota,844877
+42,TN,Tennessee,6495978
+43,TX,Texas,26448193
+44,UT,Utah,2900872
+45,VT,Vermont,626630
+46,VA,Virginia,8260405
+47,WA,Washington,6971406
+48,WV,West Virginia,1854304
+49,WI,Wisconsin,5742713
+50,WY,Wyoming,582658
